@@ -1,4 +1,4 @@
-### Hey there 🎧
+### 🗿 Hey there
 
 I'm a full-stack software developer with a background in electrical engineering.
 
