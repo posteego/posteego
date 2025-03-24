@@ -26,10 +26,6 @@ Projects that I want to work on:
  - Scalable Deployments (ML/DevOps)
 -->
 
-### 📫 Connect With Me
+### Connect With Me
 
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/kennethpostigo"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-violet?style=plastic"></a>
-  </li>
-</ul>
+📫 <a href="https://www.linkedin.com/in/kennethpostigo"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-violet?style=plastic"></a>
