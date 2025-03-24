@@ -1,4 +1,4 @@
-## Hey! I'm Kenneth
+## Hey! I'm Ken
 
 ### About Me
 
