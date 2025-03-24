@@ -1,6 +1,14 @@
-### 🗿 Hey there
+## Hey! I'm Kenneth
+
+### About Me
 
 I'm a full-stack software developer with a background in electrical engineering.
+
+🤔 Hardware & Software Engineer - DevOps, LLMs/ML, firmware, web/mobile
+
+🎓 B.S. in Electrical Engineering @ Tufts
+
+🌱 Currently, I'm helping [BIOM](https://biom.bio/) create the future of indoor air biofiltration with moss
 
 <!--
 Projects I have delivered required these skills:
@@ -13,22 +21,15 @@ Projects I have delivered required these skills:
  - Web Development
  
 Projects that I want to work on:
- - Data Science
- - Mobile Development
  - Alternate Data
+ - Embedded Programming
+ - Scalable Deployments (ML/DevOps)
 -->
 
-<!--
-**kpostigo/kpostigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📫 Connect With Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/kennethpostigo"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-violet?style=plastic"></a>
+  </li>
+</ul>
