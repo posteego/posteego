@@ -26,6 +26,8 @@ Projects that I want to work on:
  - Scalable Deployments (ML/DevOps)
 -->
 
+![posteego's gh stats](https://github-readme-stats.vercel.app/api?username=posteego&show_icons=true&theme=transparent&bg_color=303446&text_color=c6d0f5&icon_c)
+
 ### Connect With Me
 
 📫  <a href="https://www.linkedin.com/in/kennethpostigo"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-violet?style=plastic"></a>
